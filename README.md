@@ -1,4 +1,4 @@
-# aracreate-interview-karan
+# aracreate-interview-template
 
 ## Objective:
 As a Full Stack Software Engineer, you'll put your skills to demonstrate your ability to develop robust, scalable, and user-friendly applications from proof of concept to production. 
