@@ -2,11 +2,11 @@
 
 # Full Stack Software Engineer
 ## Objective | Evaluation:
-As a Full Stack Software Engineer, you'll put your skills to demonstrate your ability to develop robust, scalable, and user-friendly applications from proof of concept to production. 
+As a Full-Stack Software Engineer, you'll use your skills to demonstrate your ability to develop robust, scalable, and user-friendly applications from proof of concept to production. 
 
 First of all, we expect a team member — who aspires to be a part of creating disruptive innovations in Germany — to be agile, technology-agnostic, flexible, and comply with best practices, guidelines and quality standards. We are not interested in someone who works in a silo and develops only a black box of working code.
 
-Therefore, the first milestone of this challenge assesses your current skills as a full-stack software engineer based on your experience. Feel free to showcase your creativity and innovative thinking when developing the solution. 
+Therefore, the first milestone of this challenge assesses your current skills as a full-stack software engineer based on your experience. When developing the solution, feel free to showcase your creativity and innovative thinking. 
 
 After the evaluation, if you still need to include something from our expectations, we will mentor you with our standards and provide you with the second milestone to assess your ability to unlearn and relearn to fulfil the requirements.
 
@@ -20,7 +20,7 @@ Your challenge is to develop a simple time-tracking solution that allows users t
 #### Timeline
 - 1 week
 #### Estimation
-- Should be provided by the interviewee in project management tool
+- Should be provided by the interviewee in the project management tool
 
 ### Milestone 2:
 #### Dashboard
@@ -28,7 +28,7 @@ Your challenge is to develop a simple time-tracking solution that allows users t
 #### Timeline
 - 1 week
 #### Estimation
-- Should be provided by the interviewee in project management tool
+- Should be provided by the interviewee in the project management tool
 
 ## Requirements:
 - Design an architecture for the solution and list the stories, features and tasks first.
@@ -36,7 +36,7 @@ Your challenge is to develop a simple time-tracking solution that allows users t
 - Use a modern web development stack for your choice.
 - Ensure the application has a professional UI and responsive design.
 - Implement API for communication between the frontend and backend components.
-- Utilise a database system for storing user data and time entries.
+- Utilise a database system to store user data and time entries.
 - Choose the appropriate toolchain to streamline development.
 - Deploy the application to any free cloud platform and provide a link for live demo access.
 - Write clean, well-documented code following best practices and coding standards.
