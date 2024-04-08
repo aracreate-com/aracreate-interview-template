@@ -20,7 +20,7 @@ Your challenge is to develop a simple time-tracking solution that allows users t
 #### Timeline
 - 1 week
 #### Estimation
-- Should be provided the interviewee
+- Should be provided by the interviewee in project management tool
 
 ### Milestone 2:
 #### Dashboard
@@ -28,7 +28,7 @@ Your challenge is to develop a simple time-tracking solution that allows users t
 #### Timeline
 - 1 week
 #### Estimation
-- Should be provided the interviewee
+- Should be provided by the interviewee in project management tool
 
 ## Requirements:
 - Design an architecture for the solution and list the stories, features and tasks first.
